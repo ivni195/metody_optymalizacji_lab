@@ -1,4 +1,3 @@
-import numpy as np
 import cvxpy as cp
 
 x_lek1 = cp.Variable()
